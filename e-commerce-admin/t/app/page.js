@@ -7,3 +7,5 @@ import PageLogin from "./loginPage/PageLogin";
 export default function Home() {
   return <PageLogin />;
 }
+
+//carpéta principal
